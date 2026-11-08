@@ -1,0 +1,25 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.format.settings.profile": "GoogleStyle",
+    "java.project.sourcePaths": ["src/main/java"],
+    "java.project.testSourcePaths": ["src/test/java"],
+    "explorer.compactFolders": false,
+    "[python]": {
+        "editor.quickSuggestions": {
+            "other": "off",
+            "comments": "off",
+            "strings": "off"
+        },
+        "editor.suggestOnTriggerCharacters": false,
+        "editor.acceptSuggestionOnEnter": "off",
+        "editor.tabCompletion": "off",
+        "editor.parameterHints.enabled": false,
+        "editor.wordBasedSuggestions": "off",
+        "editor.inlineSuggest.enabled": false
+    },
+    "editor.fontSize": 16,
+    "editor.lineHeight": 24,
+    "terminal.integrated.fontSize": 15,
+    "window.zoomLevel": 0
+}
