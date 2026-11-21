@@ -15,6 +15,17 @@ tests/                # Mirrors src/lld_practice/
 
 ## Getting started
 
+### Dev Container
+
+Open the repository in VS Code and run **Dev Containers: Reopen in Container**.
+The container installs the project requirements automatically. Then run:
+
+```bash
+pytest
+```
+
+### Local environment
+
 ```bash
 python -m venv .venv
 source .venv/bin/activate
